@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 ![MacBook Pro with a Cup of Tea](./assets/img/profile/macbook-pro-tea.png)
+-->
 
 ### Hi, I'm Chris. :wave:
 
