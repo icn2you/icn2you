@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 I'm a full stack web developer (FSWD) by calling. I have proficiencies in HTML, CSS, and JavaScript with experience in developing apps employing the [MERN stack](https://www.educative.io/edpresso/what-is-mern-stack). I have worked with Firebase and MySQL as well. As an avid learner, I am always eager to add new technologies to my repertoire. :seedling:
 
-On a more personal level, I love a steamy [cup of tea](http://mellowmonk.com/buyGreenTea.htm) and an enlightening book. [Principle-driven](https://enneagraminstitute.com/type-1), I seek to be a better me today than I was yesterday. Meditation is key to my success. :lotus_position_man:
+On a more personal level, I love a steamy [cup of tea](http://mellowmonk.com/buyGreenTea.htm) and an enlightening book. [Principle-driven](https://enneagraminstitute.com/type-1), I seek to be a better me today than I was yesterday. Meditation is key to my personal growth. :lotus_position_man:
 
 I live in Los Angeles with my spouse, who I am slowing convincing of the merits of code. Together, we enjoy educating ourselves on a wide range of topics from culture to neuroscience to religion. :two_men_holding_hands:
 
@@ -45,7 +45,7 @@ I am happiest when I'm writing code and building something new or improving upon
 
 [![jQuery][jquery-logo]][jquery-link]
 [![Handlebars][hbs-logo]][hbs-link]
-[![Bootstrap][bootstrap-logo]][bootstrap-link]
+[![Bootstrap][bootstrap-logo]][bootstrap-link]&nbsp;&nbsp;
 [![Material-UI][materialui-logo]][materialui-link]&nbsp;&nbsp;
 [![Firebase][firebase-logo]][firebase-link]&nbsp;&nbsp;
 [![MySQL][mysql-logo]][mysql-link]&nbsp;&nbsp;
