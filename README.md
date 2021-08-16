@@ -25,7 +25,9 @@ I'm a full stack web developer (FSWD) by calling. I have proficiencies in HTML, 
 
 On a more personal level, I love a steamy [cup of tea](http://mellowmonk.com/buyGreenTea.htm) and an enlightening book. [Principle-driven](https://enneagraminstitute.com/type-1), I seek to be a better me today than I was yesterday. Meditation is key to my personal growth. :lotus_position_man:
 
+<!--
 I live in Los Angeles with my spouse, who I am slowly convincing of the merits of code. Together, we enjoy educating ourselves on a wide range of topics from culture to neuroscience to religion. :two_men_holding_hands:
+-->
 
 I am happiest when I'm writing code and building something new or improving upon existing software. My digital companion in this endeavor is a [MacBook Pro 16](https://apple.com/macbook-pro-16). I can't wait for the day when I can discuss my existential angst with [Siri](https://www.apple.com/siri/). :computer:
 
