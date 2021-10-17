@@ -21,15 +21,17 @@ Here are some ideas to get you started:
 
 ### Hi, I'm Chris. :wave:
 
-I'm a full stack web developer (FSWD). It's my passion and my calling. I have proficiencies in HTML, CSS, and JavaScript with experience in developing apps employing the [MERN stack](https://www.educative.io/edpresso/what-is-mern-stack). I have worked with Firebase and MySQL as well. An avid learner, I'm always eager to add new technologies to my skillset. :seedling:
+I'm a full stack web developer (FSWD). It's my passion and my calling. :man_technologist:
 
-On a more personal level, I love a steamy [cup of tea](http://mellowmonk.com/buyGreenTea.htm) and an enlightening book. [Driven by principle](https://enneagraminstitute.com/type-1), I seek to be a better version of me today than I was yesterday. Meditation and mindfulness are key to my personal growth. :lotus_position_man:
+I have proficiencies in HTML, CSS, and JavaScript with experience in developing apps employing the [MERN stack](https://www.educative.io/edpresso/what-is-mern-stack). I have worked with Firebase and MySQL as well. An avid learner, I'm always eager to add new technologies to my skillset. :toolbox:
+
+On a more personal level, I love a steamy [cup of tea](http://mellowmonk.com/buyGreenTea.htm) and an enlightening book. [Principle-driven](https://enneagraminstitute.com/type-1), I seek to be a better version of me today than I was yesterday. I consider meditation and mindfulness key to my personal growth. :lotus_position_man:
 
 <!--
 I live in Los Angeles with my spouse, who I am slowly convincing of the merits of code. Together, we enjoy educating ourselves on a wide range of topics from culture to neuroscience to religion. :two_men_holding_hands:
 -->
 
-I am happiest when I'm writing code, building something new or improving upon existing software. My digital companion in this endeavor is a [MacBook Pro 16](https://apple.com/macbook-pro-16)—a lovely machine. I can't wait for the day when I can discuss my existential angst with [Siri](https://www.apple.com/siri/). :computer:
+I am happiest when I'm writing code, building a new app or site or improving upon existing software. My digital companion in this endeavor is the [MacBook Pro 16](https://apple.com/macbook-pro-16)—a lovely machine. Looking forward, I can't wait for the day when I can discuss my existential angst with [Siri](https://www.apple.com/siri/). :nerd:
 
 ### Technical Skills
 
