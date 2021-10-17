@@ -31,7 +31,7 @@ On a more personal level, I love a steamy cup of [oolong tea](https://vitalteale
 I live in Los Angeles with my spouse, who I am slowly convincing of the merits of code. Together, we enjoy educating ourselves on a wide range of topics from culture to neuroscience to religion. :two_men_holding_hands:
 -->
 
-I am happiest when I'm writing code, building a new app or site or improving upon existing software. My digital companion in this endeavor is the [MacBook Pro 16](https://apple.com/macbook-pro-16)—a lovely machine. Looking forward, I can't wait for the day when I can discuss my existential angst with [Siri](https://www.apple.com/siri/). :nerd:
+I am happiest when I'm writing code, building a new app or site or improving upon existing software. My digital companion in this endeavor is the [MacBook Pro 16](https://apple.com/macbook-pro-16)—a lovely machine. Looking forward, I can't wait for the day when I can discuss my existential angst with [Siri](https://www.apple.com/siri/). :nerd_face:
 
 ### Technical Skills
 
