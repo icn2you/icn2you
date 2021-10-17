@@ -25,7 +25,7 @@ I'm a full stack web developer (FSWD). It's my passion and my calling. :man_tech
 
 I have proficiencies in HTML, CSS, and JavaScript with experience in developing apps employing the [MERN stack](https://www.educative.io/edpresso/what-is-mern-stack). I have worked with Firebase and MySQL as well. An avid learner, I'm always eager to add new technologies to my skillset. :toolbox:
 
-On a more personal level, I love a steamy [cup of tea](http://mellowmonk.com/buyGreenTea.htm) and an enlightening book. [Principle-driven](https://enneagraminstitute.com/type-1), I seek to be a better version of me today than I was yesterday. I consider meditation and mindfulness key to my personal growth. :lotus_position_man:
+On a more personal level, I love a steamy cup of [oolong tea](https://vitaltealeaf.net/collections/oolong-teas/products/iron-goddess-ginseng-oolong) and an enlightening book. [Principle-driven](https://enneagraminstitute.com/type-1), I seek to be a better version of me today than I was yesterday. I consider meditation and mindfulness key to my personal growth. :lotus_position_man:
 
 <!--
 I live in Los Angeles with my spouse, who I am slowly convincing of the merits of code. Together, we enjoy educating ourselves on a wide range of topics from culture to neuroscience to religion. :two_men_holding_hands:
